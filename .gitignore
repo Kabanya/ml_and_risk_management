@@ -1,1 +1,7 @@
 house-prices-advanced-regression-techniques
+*optionsdesk*.csv
+*options*.csv
+finance/final.csv
+.gitignore
+finance/signals_data.csv
+**.png
