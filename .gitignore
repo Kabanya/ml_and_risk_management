@@ -1,8 +1,4 @@
-house-prices-advanced-regression-techniques
-*optionsdesk*.csv
-*options*.csv
-finance/final.csv
-.gitignore
-finance/signals_data.csv
+.idea
 **.png
-Lesson_03_Decision_Trees/loan_data.csv
+**.csv
+**.txt
